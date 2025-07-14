@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: ai_mof_scientist
+Version: 0.1.0
+Summary: AI Scientist for predicting MOF properties
+Author-email: Surya <sur123app@gmail.com>
+License: MIT
+Requires-Python: >=3.9
+Requires-Dist: langchain
+Requires-Dist: langchain-openai
+Requires-Dist: langchain_core

@@ -1,0 +1,80 @@
+2025-07-03 16:34:16,739 - prepare_data.log - INFO - hMOF-3 succeed : supercell length [12.759401 12.7594   12.759393]
+2025-07-03 16:34:17,322 - prepare_data.log - INFO - hMOF-15 succeed : supercell length [12.759399 12.759401 12.759393]
+2025-07-03 16:34:17,904 - prepare_data.log - INFO - hMOF-12 succeed : supercell length [12.759401 12.7594   12.759393]
+2025-07-03 16:34:18,486 - prepare_data.log - INFO - hMOF-20 succeed : supercell length [12.759401 12.759399 12.759393]
+2025-07-03 16:34:19,071 - prepare_data.log - INFO - hMOF-6 succeed : supercell length [12.759393 12.759401 12.759399]
+2025-07-03 16:34:19,657 - prepare_data.log - INFO - hMOF-18 succeed : supercell length [12.759401 12.7594   12.759393]
+2025-07-03 16:34:20,240 - prepare_data.log - INFO - hMOF-0 succeed : supercell length [12.759401 12.759399 12.759393]
+2025-07-03 16:34:20,832 - prepare_data.log - INFO - hMOF-9 succeed : supercell length [12.759401 12.7594   12.759393]
+2025-07-03 16:34:21,416 - prepare_data.log - INFO - hMOF-25 succeed : supercell length [12.759401 12.7594   12.759393]
+2025-07-03 16:34:21,996 - prepare_data.log - INFO - hMOF-22 succeed : supercell length [12.759401 12.759399 12.759393]
+2025-07-03 16:39:27,542 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-03 16:39:27,542 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-03 16:39:27,543 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-03 16:39:27,543 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-03 16:39:27,544 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-03 16:39:27,544 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-03 16:39:27,544 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-03 16:39:27,545 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-03 16:39:27,545 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-03 16:39:27,546 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-03 16:39:53,593 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-03 16:39:53,593 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-03 16:39:53,593 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-03 16:39:53,594 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-03 16:39:53,594 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-03 16:39:53,595 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-03 16:39:53,595 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-03 16:39:53,595 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-03 16:39:53,596 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-03 16:39:53,596 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-03 16:40:14,898 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-03 16:40:14,898 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-03 16:40:14,899 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-03 16:40:14,899 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-03 16:40:14,899 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-03 16:40:14,900 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-03 16:40:14,900 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-03 16:40:14,900 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-03 16:40:14,901 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-03 16:40:14,901 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-03 16:40:59,264 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-03 16:40:59,264 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-03 16:40:59,265 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-03 16:40:59,265 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-03 16:40:59,266 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-03 16:40:59,266 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-03 16:40:59,266 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-03 16:40:59,267 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-03 16:40:59,267 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-03 16:40:59,268 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-03 16:41:24,778 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-03 16:41:24,779 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-03 16:41:24,779 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-03 16:41:24,780 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-03 16:41:24,780 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-03 16:41:24,781 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-03 16:41:24,781 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-03 16:41:24,781 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-03 16:41:24,782 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-03 16:41:24,782 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-09 10:39:29,295 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-09 10:39:29,296 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-09 10:39:29,298 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-09 10:39:29,299 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-09 10:39:29,300 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-09 10:39:29,301 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-09 10:39:29,301 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-09 10:39:29,302 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-09 10:39:29,302 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-09 10:39:29,303 - prepare_data.log - INFO - hMOF-22 graph data already exists
+2025-07-09 10:39:48,079 - prepare_data.log - INFO - hMOF-3 graph data already exists
+2025-07-09 10:39:48,081 - prepare_data.log - INFO - hMOF-15 graph data already exists
+2025-07-09 10:39:48,083 - prepare_data.log - INFO - hMOF-12 graph data already exists
+2025-07-09 10:39:48,085 - prepare_data.log - INFO - hMOF-20 graph data already exists
+2025-07-09 10:39:48,087 - prepare_data.log - INFO - hMOF-6 graph data already exists
+2025-07-09 10:39:48,088 - prepare_data.log - INFO - hMOF-18 graph data already exists
+2025-07-09 10:39:48,090 - prepare_data.log - INFO - hMOF-0 graph data already exists
+2025-07-09 10:39:48,092 - prepare_data.log - INFO - hMOF-9 graph data already exists
+2025-07-09 10:39:48,093 - prepare_data.log - INFO - hMOF-25 graph data already exists
+2025-07-09 10:39:48,095 - prepare_data.log - INFO - hMOF-22 graph data already exists
