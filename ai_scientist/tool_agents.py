@@ -16,7 +16,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
 class MOFTransformerAgent(Agent):
     @action
-    async def run_moftransformer_x(self, cifs_dir: str, mof_prop: str) -> str:
+    async def run_moftransformer(self, cifs_dir: str, mof_prop: str) -> str:
         """
         Use this tool to predict a specific property for a collection of Metal-Organic Frameworks (MOFs)
         located in a given directory of CIF files.

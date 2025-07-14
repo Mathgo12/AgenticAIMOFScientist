@@ -63,23 +63,14 @@ class ToolCallerAgent(Agent):
         print("AI Scientist (LangChain MOF Agent) Initializing...")
         print(f"Model selected: {self.model_name}")
 
+    async def agent_on_startup(self) -> None:
+        self.tools = []
+        self.tools.append(make_mof_transformer_tool(self.mof_transformer_agent))
+        self.tools.append(make_random_normal_tool(self.random_normal_agent))
+        self.tools.append(make_random_uniform_tool(self.random_uniform_agent))
+        self.tools.append(make_noisy_mof_transformer_tool(self.noisy_mof_transformer_agent))      
 
-    @property
-    def tool_list(self):
-        if self._tools is None:
-            self._tools = []
-            self._tools.append(make_mof_transformer_tool(self.mof_transformer_agent))
-            self._tools.append(make_random_normal_tool(self.random_normal_agent))
-            self._tools.append(make_random_uniform_tool(self.random_uniform_agent))
-            self._tools.append(make_noisy_mof_transformer_tool(self.noisy_mof_transformer_agent))
-        return self._tools
-
-    @property
-    def agent_executor(self):
-        if self._executor is None:
-            tools = self.tool_list
-            self._executor = self._create_agent(tools)
-        return self._executor
+        self.agent_executor = self._create_agent(self.tools)
 
     def _create_agent(self, tools: List):
         print('Launching Tool-Calling Agent')

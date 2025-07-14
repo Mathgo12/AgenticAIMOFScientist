@@ -75,7 +75,7 @@ async def main() -> None:
             _, response = await future
             print(response)
 
-        await asyncio.sleep(10)
+        await asyncio.sleep(2)
         
         await manager.shutdown(reflection_agent_handle, blocking=True)
         await manager.shutdown(tool_calling_agent_handle, blocking=True)

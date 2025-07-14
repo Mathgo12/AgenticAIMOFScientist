@@ -1,4 +1,4 @@
-ai_mof_scientist.egg-info/
+/ai_mof_scientist.egg-info/
 langgraph.ipynb
 ai_scientist/test.py
 ai_scientist/test2.py

@@ -335,3 +335,47 @@ OUTPUT:
 - hMOF-6: 2.7089
 - hMOF-9: 2.6857
 I used the MOFTransformer tool to predict the band gap for MOFs located in the specified directory. This tool was chosen because it directly supports band gap prediction, ensuring accurate results. The input argument included the directory path and the property name "bandgap," aligning with the tool's functionality.
+Input: Predict thermal stability for the MOFs located in /home/x-sappana/MOFScientist/ai_scientist/cifs;
+AI Scientist Result: PROPERTY: Thermal Stability
+TOOL: MOFTransformer
+OUTPUT:
+- hMOF-0: 373.09
+- hMOF-12: 332.04
+- hMOF-15: 349.48
+- hMOF-18: 328.88
+- hMOF-20: 351.11
+- hMOF-22: 342.50
+- hMOF-25: 353.81
+- hMOF-3: 365.12
+- hMOF-6: 351.12
+- hMOF-9: 347.07
+I used the MOFTransformer tool to predict the thermal stability of MOFs located in the specified directory. The tool was chosen because it directly supports predicting thermal stability, which was the user's request. The input argument provided was the directory path containing the CIF files, and the property name "thermal_stability" was specified to ensure accurate predictions. This tool was selected for its capability to deliver precise predictions for the desired property.
+Input: Now predict void fraction and CO2 Henry Coefficient for the same MOFs;
+AI Scientist Result: PROPERTY: Void Fraction
+TOOL: MOFTransformer
+OUTPUT:
+- hMOF-0: 0.7845
+- hMOF-12: 0.7713
+- hMOF-15: 0.7633
+- hMOF-18: 0.7397
+- hMOF-20: 0.7682
+- hMOF-22: 0.7361
+- hMOF-25: 0.7469
+- hMOF-3: 0.7496
+- hMOF-6: 0.7745
+- hMOF-9: 0.7586
+
+PROPERTY: CO2 Henry Coefficient (at 298 Kelvins)
+TOOL: MOFTransformer
+OUTPUT:
+- hMOF-0: -4.2600
+- hMOF-12: -4.2671
+- hMOF-15: -4.3842
+- hMOF-18: -4.4470
+- hMOF-20: -4.3377
+- hMOF-22: -4.2042
+- hMOF-25: -4.1714
+- hMOF-3: -4.0659
+- hMOF-6: -4.4071
+- hMOF-9: -4.1960
+I used the MOFTransformer tool twice to predict the "void fraction" and "CO2 Henry Coefficient (at 298 Kelvins)" for the MOFs in the specified directory. The tool was chosen because it directly supports predicting these properties. The input arguments included the directory path containing the CIF files and the specific property names ("void_fraction" and "CO2_henry_coefficient_298K") to ensure accurate predictions. This approach was selected for its precision in delivering the desired property values.
