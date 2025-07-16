@@ -1,6 +1,0 @@
-/ai_mof_scientist.egg-info/
-langgraph.ipynb
-ai_scientist/test.py
-ai_scientist/test2.py
-ai_scientist/user_agent.py
-
