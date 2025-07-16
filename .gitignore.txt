@@ -1,0 +1,10 @@
+ai_mof_scientist.egg-info/
+.ipynb_checkpoints/
+langgraph_test.ipynb
+langgraph_test.py
+ai_scientist/test.py
+ai_scientist/test2.py
+ai_scientist/user_agent.py
+ai_scientist/cifs/
+ai_scientist/__pycache__/
+ai_scientist/.ipynb_checkpoints/

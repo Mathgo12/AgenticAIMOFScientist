@@ -1,0 +1,23 @@
+
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai_scientist"
+version = "0.1.0"
+description = "AI Scientist for predicting MOF properties"
+authors = [
+    {name = "Surya", email = "sur123app@gmail.com"}
+]
+license = {text = "MIT"}
+requires-python = ">=3.9"
+dependencies = [
+    "langchain",
+    "langchain-openai",
+    "langchain_core",
+    "moftransformer",
+    "torch",
+    "mofdb_client",
+    "academy"
+]

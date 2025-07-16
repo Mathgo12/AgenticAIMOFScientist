@@ -1,0 +1,90 @@
+2025-07-03 16:34:16,735 - prepare_energy_grid.log - INFO - hMOF-3 energy grid success
+2025-07-03 16:34:16,737 - prepare_energy_grid.log - INFO - hMOF-3 energy grid changed to np16
+2025-07-03 16:34:17,317 - prepare_energy_grid.log - INFO - hMOF-15 energy grid success
+2025-07-03 16:34:17,318 - prepare_energy_grid.log - INFO - hMOF-15 energy grid changed to np16
+2025-07-03 16:34:17,900 - prepare_energy_grid.log - INFO - hMOF-12 energy grid success
+2025-07-03 16:34:17,901 - prepare_energy_grid.log - INFO - hMOF-12 energy grid changed to np16
+2025-07-03 16:34:18,481 - prepare_energy_grid.log - INFO - hMOF-20 energy grid success
+2025-07-03 16:34:18,483 - prepare_energy_grid.log - INFO - hMOF-20 energy grid changed to np16
+2025-07-03 16:34:19,067 - prepare_energy_grid.log - INFO - hMOF-6 energy grid success
+2025-07-03 16:34:19,068 - prepare_energy_grid.log - INFO - hMOF-6 energy grid changed to np16
+2025-07-03 16:34:19,652 - prepare_energy_grid.log - INFO - hMOF-18 energy grid success
+2025-07-03 16:34:19,653 - prepare_energy_grid.log - INFO - hMOF-18 energy grid changed to np16
+2025-07-03 16:34:20,237 - prepare_energy_grid.log - INFO - hMOF-0 energy grid success
+2025-07-03 16:34:20,238 - prepare_energy_grid.log - INFO - hMOF-0 energy grid changed to np16
+2025-07-03 16:34:20,828 - prepare_energy_grid.log - INFO - hMOF-9 energy grid success
+2025-07-03 16:34:20,830 - prepare_energy_grid.log - INFO - hMOF-9 energy grid changed to np16
+2025-07-03 16:34:21,412 - prepare_energy_grid.log - INFO - hMOF-25 energy grid success
+2025-07-03 16:34:21,414 - prepare_energy_grid.log - INFO - hMOF-25 energy grid changed to np16
+2025-07-03 16:34:21,992 - prepare_energy_grid.log - INFO - hMOF-22 energy grid success
+2025-07-03 16:34:21,994 - prepare_energy_grid.log - INFO - hMOF-22 energy grid changed to np16
+2025-07-03 16:39:27,542 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-03 16:39:27,542 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-03 16:39:27,543 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-03 16:39:27,543 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-03 16:39:27,544 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-03 16:39:27,544 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-03 16:39:27,544 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-03 16:39:27,545 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-03 16:39:27,545 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-03 16:39:27,546 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-03 16:39:53,593 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-03 16:39:53,593 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-03 16:39:53,594 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-03 16:39:53,594 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-03 16:39:53,594 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-03 16:39:53,595 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-03 16:39:53,595 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-03 16:39:53,596 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-03 16:39:53,596 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-03 16:39:53,596 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-03 16:40:14,898 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-03 16:40:14,898 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-03 16:40:14,899 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-03 16:40:14,899 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-03 16:40:14,899 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-03 16:40:14,900 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-03 16:40:14,900 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-03 16:40:14,900 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-03 16:40:14,901 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-03 16:40:14,901 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-03 16:40:59,264 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-03 16:40:59,264 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-03 16:40:59,265 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-03 16:40:59,265 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-03 16:40:59,266 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-03 16:40:59,266 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-03 16:40:59,266 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-03 16:40:59,267 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-03 16:40:59,267 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-03 16:40:59,268 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-03 16:41:24,779 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-03 16:41:24,779 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-03 16:41:24,779 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-03 16:41:24,780 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-03 16:41:24,780 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-03 16:41:24,781 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-03 16:41:24,781 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-03 16:41:24,781 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-03 16:41:24,782 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-03 16:41:24,782 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-09 10:39:29,295 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-09 10:39:29,296 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-09 10:39:29,298 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-09 10:39:29,299 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-09 10:39:29,300 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-09 10:39:29,301 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-09 10:39:29,301 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-09 10:39:29,302 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-09 10:39:29,302 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-09 10:39:29,303 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
+2025-07-09 10:39:48,079 - prepare_energy_grid.log - INFO - hMOF-3 energy grid already exists
+2025-07-09 10:39:48,081 - prepare_energy_grid.log - INFO - hMOF-15 energy grid already exists
+2025-07-09 10:39:48,083 - prepare_energy_grid.log - INFO - hMOF-12 energy grid already exists
+2025-07-09 10:39:48,085 - prepare_energy_grid.log - INFO - hMOF-20 energy grid already exists
+2025-07-09 10:39:48,087 - prepare_energy_grid.log - INFO - hMOF-6 energy grid already exists
+2025-07-09 10:39:48,088 - prepare_energy_grid.log - INFO - hMOF-18 energy grid already exists
+2025-07-09 10:39:48,090 - prepare_energy_grid.log - INFO - hMOF-0 energy grid already exists
+2025-07-09 10:39:48,092 - prepare_energy_grid.log - INFO - hMOF-9 energy grid already exists
+2025-07-09 10:39:48,093 - prepare_energy_grid.log - INFO - hMOF-25 energy grid already exists
+2025-07-09 10:39:48,095 - prepare_energy_grid.log - INFO - hMOF-22 energy grid already exists
