@@ -1,0 +1,93 @@
+LAMMPS Pipeline Processing Summary
+==================================================
+
+OVERALL STATISTICS:
+--------------------
+Total files processed: 675
+Overall successful simulations: 68
+Overall success rate: 10.07%
+Elapsed time: 426.4070999622345 seconds
+
+PIPELINE-SPECIFIC SUCCESS RATES:
+-----------------------------------
+cif2lammps success rate: 14.37% (97/675)
+  └─ Files that successfully passed cif2lammps conversion
+LAMMPS simulation success rate: 70.10% (68/97)
+  └─ Among files that passed cif2lammps
+
+FAILURE BREAKDOWN:
+--------------------
+cif2lammps conversion failures: 578
+LAMMPS simulation failures: 29
+Other failures: 0
+
+SUCCESSFUL STRUCTURAL STABILITIES:
+-----------------------------------
+example_MOF_mof-2962611b.cif: 0.09472829511149213 - 23.58134174346924 seconds
+example_MOF_mof-3f882b08.cif: 0.10291629199068032 - 23.947832822799683 seconds
+example_MOF_mof-3b2c5db1.cif: 0.0914212607343455 - 25.14818525314331 seconds
+example_MOF_mof-1023f70c.cif: 0.12607779926824075 - 28.74710965156555 seconds
+example_MOF_mof-4d583ee9.cif: 0.13378976334505704 - 27.68976402282715 seconds
+example_MOF_mof-2f84a574.cif: 0.17143521250973512 - 24.11249303817749 seconds
+example_MOF_mof-9076383a.cif: 0.1824908072037737 - 23.86406970024109 seconds
+example_MOF_mof-e81d6d6a.cif: 0.13566465569540373 - 29.636584281921387 seconds
+example_MOF_mof-3dc73ac0.cif: 0.11510472761031786 - 30.220149040222168 seconds
+example_MOF_mof-a6d40afd.cif: 0.09720005120805822 - 30.223376512527466 seconds
+example_MOF_mof-11e25bea.cif: 0.08454830431490704 - 33.38606882095337 seconds
+example_MOF_mof-7d029b8c.cif: 0.11261984934314968 - 33.99523973464966 seconds
+example_MOF_mof-7d905234.cif: 0.14151977897961499 - 22.51421332359314 seconds
+example_MOF_mof-1ed1bac5.cif: 0.15043319070620345 - 24.32203722000122 seconds
+example_MOF_mof-abd7124c.cif: 0.08982619324386638 - 14.555845737457275 seconds
+example_MOF_mof-df5ef22a.cif: 0.06543887082470767 - 30.24266481399536 seconds
+example_MOF_mof-6e5948a5.cif: 0.13627164245457668 - 28.360963821411133 seconds
+example_MOF_mof-0d7708a6.cif: 0.12355203504324413 - 24.175771713256836 seconds
+example_MOF_mof-ac8f155f.cif: 0.1453918521533778 - 28.446608304977417 seconds
+example_MOF_mof-3613e7c8.cif: 0.17287655588585 - 37.72638392448425 seconds
+example_MOF_mof-b4d436ff.cif: 0.13974324388227255 - 29.283549785614014 seconds
+example_MOF_mof-40d2401a.cif: 0.1205426970358223 - 33.450299978256226 seconds
+example_MOF_mof-cfe4163f.cif: 0.1406249576518925 - 44.1316704750061 seconds
+example_MOF_mof-38ec1978.cif: 0.14297401850086905 - 33.42105174064636 seconds
+example_MOF_mof-34f0c789.cif: 0.18168625052311382 - 34.07849955558777 seconds
+example_MOF_mof-a965283e.cif: 0.10079188049987714 - 25.459569931030273 seconds
+example_MOF_mof-56a81f87.cif: 0.1693947767833791 - 29.88492703437805 seconds
+example_MOF_mof-143a9f3a.cif: 0.0769728116046218 - 33.459651708602905 seconds
+example_MOF_mof-529dcd7f.cif: 0.1535312648655636 - 33.864006996154785 seconds
+example_MOF_mof-4c95f533.cif: 0.13624446683133465 - 36.72701048851013 seconds
+example_MOF_mof-237ffdc6.cif: 0.17720244141312352 - 29.30396842956543 seconds
+example_MOF_mof-4b67b6b3.cif: 0.1173599662027706 - 27.701444387435913 seconds
+example_MOF_mof-f9dad083.cif: 0.17141323653874646 - 29.130261659622192 seconds
+example_MOF_mof-4ab5bcd1.cif: 0.1771791034075264 - 32.74695372581482 seconds
+example_MOF_mof-ce5fd997.cif: 0.15843919174842774 - 33.367008447647095 seconds
+example_MOF_mof-f9aa099c.cif: 0.1801716386763237 - 31.18033742904663 seconds
+example_MOF_mof-9f0955d4.cif: 0.17541825924023596 - 26.047179222106934 seconds
+example_MOF_mof-e77ae323.cif: 0.12474611596617748 - 24.309571743011475 seconds
+example_MOF_mof-7fec10fd.cif: 0.12097048208919334 - 27.72273015975952 seconds
+example_MOF_mof-2eac5e75.cif: 0.11813051347613435 - 19.018038511276245 seconds
+example_MOF_mof-c4285eea.cif: 0.09305101696951235 - 41.10659170150757 seconds
+example_MOF_mof-b521320c.cif: 0.11177502636250475 - 34.771055936813354 seconds
+example_MOF_mof-ed44752d.cif: 0.10875139488811912 - 31.999410390853882 seconds
+example_MOF_mof-09b7c45c.cif: 0.11584279757443966 - 15.071319103240967 seconds
+example_MOF_mof-7d67984d.cif: 0.10721406916031184 - 25.488085746765137 seconds
+example_MOF_mof-cbc161e7.cif: 0.1032751019811263 - 28.642378568649292 seconds
+example_MOF_mof-20fc8523.cif: 0.09606334949717503 - 17.597046613693237 seconds
+example_MOF_mof-92474e45.cif: 0.3392513319000129 - 9.497687101364136 seconds
+example_MOF_mof-88b1fb01.cif: 0.17153996349677458 - 31.484925031661987 seconds
+example_MOF_mof-540c2b2e.cif: 0.11306183919232571 - 23.186652421951294 seconds
+example_MOF_mof-8cb18d27.cif: 0.14755478202573247 - 26.852147102355957 seconds
+example_MOF_mof-6a4400ef.cif: 0.11806692373983488 - 14.964885711669922 seconds
+example_MOF_mof-7cb16f31.cif: 0.10214934020018518 - 28.759231090545654 seconds
+example_MOF_mof-7aa1be82.cif: 0.12570440483345638 - 26.916059255599976 seconds
+example_MOF_mof-1c84c457.cif: 0.14508592148438257 - 23.98658847808838 seconds
+example_MOF_mof-a29015ab.cif: 0.12384082592136648 - 12.84142017364502 seconds
+example_MOF_mof-765020eb.cif: 0.17788034921041906 - 28.80702304840088 seconds
+example_MOF_mof-09c2bf79.cif: 0.13588171301734492 - 34.57441973686218 seconds
+example_MOF_mof-3ecbf47a.cif: 0.17243416172745282 - 26.613636255264282 seconds
+example_MOF_mof-58902c75.cif: 0.12552102065201742 - 31.832696437835693 seconds
+example_MOF_mof-092bcac6.cif: 0.07577998935200239 - 32.21951174736023 seconds
+example_MOF_mof-fff57b82.cif: 0.07284111961818983 - 27.28873586654663 seconds
+example_MOF_mof-a4e0c8ef.cif: 0.11866205041416365 - 23.843604564666748 seconds
+example_MOF_mof-3a4f006c.cif: 0.06873301637861624 - 28.796467542648315 seconds
+example_MOF_mof-9093a037.cif: 0.1583293840235785 - 30.933794498443604 seconds
+example_MOF_mof-3f430d11.cif: 0.12026800465879815 - 23.56478786468506 seconds
+example_MOF_mof-c01c81a0.cif: 0.11747259419652532 - 12.822223663330078 seconds
+example_MOF_mof-6bf1d0de.cif: 0.11552450096631466 - 22.320230960845947 seconds

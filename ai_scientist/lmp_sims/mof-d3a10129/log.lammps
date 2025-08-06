@@ -1,0 +1,84 @@
+LAMMPS (29 Aug 2024 - Update 3)
+  using 1 OpenMP thread(s) per MPI task
+units           real
+atom_style      full
+boundary        p p p
+
+bond_style      harmonic
+angle_style     hybrid cosine/periodic fourier
+dihedral_style  harmonic
+improper_style  fourier
+
+dielectric      1.0
+pair_style      lj/cut 12.5
+pair_modify     shift yes mix geometric
+special_bonds   lj 0.0 0.0 1.0
+box             tilt large
+
+The 'box' command has been removed and will be ignored
+
+read_data       data.lmp
+Reading data file ...
+  triclinic box = (0 0 0) to (22.0834 24.27 39.3018) with tilt (0 0 0)
+  1 by 1 by 1 MPI processor grid
+WARNING: Atom style in data file a, b, c, alpha, beta, gamma: 22.0834000000, 24.2700000000, 39.3018000000, 90.0000000000, 90.0000000000, 90.0000000000 $$$atoms$$$ differs from currently defined atom style full (src/src/read_data.cpp:706)
+  reading atoms ...
+  1152 atoms
+  scanning bonds ...
+  8 = max bonds/atom
+  scanning angles ...
+  28 = max angles/atom
+  scanning dihedrals ...
+  12 = max dihedrals/atom
+  scanning impropers ...
+  2 = max impropers/atom
+  triclinic box = (0 0 0) to (22.0834 24.27 39.3018) with tilt (0 0 0)
+  1 by 1 by 1 MPI processor grid
+  reading bonds ...
+  1536 bonds
+  reading angles ...
+  3648 angles
+  reading dihedrals ...
+  2880 dihedrals
+  reading impropers ...
+  576 impropers
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:    0        0        1       
+  special bond factors coul:  0        0        0       
+     8 = max # of 1-2 neighbors
+    11 = max # of 1-3 neighbors
+    30 = max # of 1-4 neighbors
+    32 = max # of special neighbors
+  special bonds CPU = 0.001 seconds
+  read_data CPU = 0.297 seconds
+
+
+
+
+# simulation
+fix                 fxnpt all npt temp 300.0 300.0 $(200.0*dt) tri 1.0 1.0 $(800.0*dt)
+fix                 fxnpt all npt temp 300.0 300.0 200 tri 1.0 1.0 $(800.0*dt)
+fix                 fxnpt all npt temp 300.0 300.0 200 tri 1.0 1.0 800
+variable            Nevery equal 2500
+thermo              ${Nevery}
+thermo              2500
+thermo_style        custom step cpu dt time temp press pe ke etotal density xlo ylo zlo cella cellb cellc cellalpha cellbeta cellgamma
+thermo_modify       flush yes
+minimize            1.0e-10 1.0e-10 10000 100000
+Generated 15 of 15 mixed pair_coeff terms from geometric mixing rule
+Neighbor list info ...
+  update: every = 1 steps, delay = 0 steps, check = yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 14.5
+  ghost atom cutoff = 14.5
+  binsize = 7.25, bins = 4 4 6
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair lj/cut, perpetual
+      attributes: half, newton on
+      pair build: half/bin/newton/tri
+      stencil: half/bin/3d/tri
+      bin: standard
+WARNING: Inconsistent image flags (src/src/domain.cpp:1051)
+Per MPI rank memory allocation (min/avg/max) = 23.68 | 23.68 | 23.68 Mbytes
+   Step          CPU             Dt            Time           Temp          Press          PotEng         KinEng         TotEng        Density          Xlo            Ylo            Zlo           Cella          Cellb          Cellc        CellAlpha       CellBeta      CellGamma   
+         0   0              1              0              0             -75802.589      31869.62       0              31869.62       1.7608154      0              0              0              22.0834        24.27          39.3018        90             90             90           

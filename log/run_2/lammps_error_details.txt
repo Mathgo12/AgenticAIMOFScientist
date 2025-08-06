@@ -1,0 +1,585 @@
+Detailed Error Report
+==================================================
+
+
+Cif2Lammps Conversion Failures (131):
+----------------------------------------
+File: example_MOF_mof-3bee897c.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 75, 'formula': 'C34H26N4O8SZn2'}
+
+File: example_MOF_mof-35751c73.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 71, 'formula': 'C32H22N6O9Zn2'}
+
+File: example_MOF_mof-5ae35fee.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 74, 'formula': 'C36H23N3O10Zn2'}
+
+File: example_MOF_mof-e690a552.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 76, 'formula': 'C37H26N2O9Zn2'}
+
+File: example_MOF_mof-4e1ea2e6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 73, 'formula': 'C34H21N7O9Zn2'}
+
+File: example_MOF_mof-49802549.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 73, 'formula': 'C32H22N8O8SZn2'}
+
+File: example_MOF_mof-31bda0ad.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 77, 'formula': 'C36H25N5O8SZn2'}
+
+File: example_MOF_mof-0d93be93.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 80, 'formula': 'C37H29N3O8SZn2'}
+
+File: example_MOF_mof-d4ac42c3.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 79, 'formula': 'C38H27N3O9Zn2'}
+
+File: example_MOF_mof-dbc1fb23.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 77, 'formula': 'C38H24N4O9Zn2'}
+
+File: example_MOF_mof-11bdd768.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 68, 'formula': 'C35H19N3O8SZn2'}
+
+File: example_MOF_mof-bcdacbc1.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 76, 'formula': 'C36H23N7O8Zn2'}
+
+File: example_MOF_mof-c7e8eefe.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 80, 'formula': 'C36H29N3O10Zn2'}
+
+File: example_MOF_mof-847a39e9.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 73, 'formula': 'C34H26N2O9Zn2'}
+
+File: example_MOF_mof-5988e8f5.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 74, 'formula': 'C34H24N6O8Zn2'}
+
+File: example_MOF_mof-fe268ee6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 67, 'formula': 'C31H18F3N3O10Zn2'}
+
+File: example_MOF_mof-6cbf3e4e.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 70, 'formula': 'C35H22N2O9Zn2'}
+
+File: example_MOF_mof-eb705fb1.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 70, 'formula': 'C31H21N5O10SZn2'}
+
+File: example_MOF_mof-cbff3000.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C N C
+Details: {'atoms_count': 77, 'formula': 'C36H25N5O8SZn2'}
+
+File: example_MOF_mof-93e50c33.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 71, 'formula': 'C33H23N3O10Zn2'}
+
+File: example_MOF_mof-ad098375.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 78, 'formula': 'C37H26N4O9Zn2'}
+
+File: example_MOF_mof-0533905e.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 78, 'formula': 'C38H27N3O8Zn2'}
+
+File: example_MOF_mof-d86936ee.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 73, 'formula': 'C34H21N7O9Zn2'}
+
+File: example_MOF_mof-51d60bba.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 67, 'formula': 'C32H18F3N3O8SZn2'}
+
+File: example_MOF_mof-99e79f58.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 70, 'formula': 'C31H21N5O10SZn2'}
+
+File: example_MOF_mof-1234ef76.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 69, 'formula': 'C31H19N7O10Zn2'}
+
+File: example_MOF_mof-f1041b0e.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C C C
+Details: {'atoms_count': 77, 'formula': 'C38H24N4O9Zn2'}
+
+File: example_MOF_mof-f4f41ec0.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 76, 'formula': 'C35H27N3O9Zn2'}
+
+File: example_MOF_mof-026b24df.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C C O
+Details: {'atoms_count': 72, 'formula': 'C35H22N4O8SZn2'}
+
+File: example_MOF_mof-ead2b769.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 76, 'formula': 'C37H26N2O9Zn2'}
+
+File: example_MOF_mof-66b47ca4.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 70, 'formula': 'C32H19F3N6O8Zn2'}
+
+File: example_MOF_mof-49a1cfa9.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 80, 'formula': 'C37H29N3O8SZn2'}
+
+File: example_MOF_mof-b4c74435.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 73, 'formula': 'C33H25N3O10Zn2'}
+
+File: example_MOF_mof-8019f08c.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 68, 'formula': 'C34H19N3O10Zn2'}
+
+File: example_MOF_mof-a6a4791e.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C35H20N6O8Zn2'}
+
+File: example_MOF_mof-728432c2.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O O C C
+Details: {'atoms_count': 69, 'formula': 'C31H19N7O10Zn2'}
+
+File: example_MOF_mof-b51b14e9.cif
+Error: cif2lammps conversion failed: 'C_5'
+Details: {'atoms_count': 82, 'formula': 'C40H30N2O8Zn2'}
+
+File: example_MOF_mof-a6e6b205.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 70, 'formula': 'C34H20N4O9SZn2'}
+
+File: example_MOF_mof-d02b6919.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 67, 'formula': 'C31H18F3N3O10Zn2'}
+
+File: example_MOF_mof-30d3987b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 68, 'formula': 'C35H19N3O8SZn2'}
+
+File: example_MOF_mof-0c8ddb26.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 68, 'formula': 'C31H21N3O11Zn2'}
+
+File: example_MOF_mof-4ceee026.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H O C C C
+Details: {'atoms_count': 67, 'formula': 'C32H18F3N3O8SZn2'}
+
+File: example_MOF_mof-e1f63d4b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 70, 'formula': 'C32H24N2O10Zn2'}
+
+File: example_MOF_mof-ccc6ae42.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 74, 'formula': 'C36H22F3N3O8Zn2'}
+
+File: example_MOF_mof-a291a5e2.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 75, 'formula': 'C36H25N3O9Zn2'}
+
+File: example_MOF_mof-bdf16489.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 71, 'formula': 'C32H21F3N4O8SZn2'}
+
+File: example_MOF_mof-4c69e408.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C35H20N6O8Zn2'}
+
+File: example_MOF_mof-bacd03bb.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 73, 'formula': 'C33H25N3O10Zn2'}
+
+File: example_MOF_mof-5ab1bdef.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 85, 'formula': 'C38H33N3O9Zn2'}
+
+File: example_MOF_mof-5f12b0fd.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 69, 'formula': 'C32H21F3N2O9Zn2'}
+
+File: example_MOF_mof-b3a08e3b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 73, 'formula': 'C34H26N2O9Zn2'}
+
+File: example_MOF_mof-ac3dba15.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 74, 'formula': 'C36H23N3O10Zn2'}
+
+File: example_MOF_mof-56d99528.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 72, 'formula': 'C35H22N4O8SZn2'}
+
+File: example_MOF_mof-ff7d7fd8.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 70, 'formula': 'C34H20N4O9SZn2'}
+
+File: example_MOF_mof-59dc556e.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 70, 'formula': 'C33H20N4O11Zn2'}
+
+File: example_MOF_mof-ba8ea0b7.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 70, 'formula': 'C32H21N5O8S2Zn2'}
+
+File: example_MOF_mof-4b9988c4.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C32H22N4O11Zn2'}
+
+File: example_MOF_mof-e4c0069f.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 83, 'formula': 'C37H30N6O8Zn2'}
+
+File: example_MOF_mof-f49bed69.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C C C C
+Details: {'atoms_count': 75, 'formula': 'C39H23N3O8Zn2'}
+
+File: example_MOF_mof-b032574d.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C C C
+Details: {'atoms_count': 87, 'formula': 'C41H33N3O8Zn2'}
+
+File: example_MOF_mof-768ec1fc.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 78, 'formula': 'C37H26N4O8SZn2'}
+
+File: example_MOF_mof-dd2d01e4.cif
+Error: cif2lammps conversion failed: 'C_5'
+Details: {'atoms_count': 73, 'formula': 'C37H24N2O8Zn2'}
+
+File: example_MOF_mof-63546767.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 72, 'formula': 'C32H24N4O9SZn2'}
+
+File: example_MOF_mof-67c9990a.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C33H22N4O9SZn2'}
+
+File: example_MOF_mof-f8d06b4b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 75, 'formula': 'C33H25N5O9SZn2'}
+
+File: example_MOF_mof-d8dc2df7.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H O C C C
+Details: {'atoms_count': 66, 'formula': 'C31H18N4O10SZn2'}
+
+File: example_MOF_mof-cbcb6dc6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C O C C
+Details: {'atoms_count': 69, 'formula': 'C32H19N7O8SZn2'}
+
+File: example_MOF_mof-ca044939.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 76, 'formula': 'C34H26N4O10Zn2'}
+
+File: example_MOF_mof-24fb17a6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 72, 'formula': 'C32H20N10O8Zn2'}
+
+File: example_MOF_mof-82ee3941.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 72, 'formula': 'C33H22F3N3O9Zn2'}
+
+File: example_MOF_mof-a02e9d18.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C33H23N3O10Zn2'}
+
+File: example_MOF_mof-6ee45aa6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 73, 'formula': 'C36H22N4O8SZn2'}
+
+File: example_MOF_mof-0f522a61.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 81, 'formula': 'C41H27N3O8Zn2'}
+
+File: example_MOF_mof-07d77cad.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 78, 'formula': 'C37H26N4O9Zn2'}
+
+File: example_MOF_mof-ef871b76.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 72, 'formula': 'C34H23N3O10Zn2'}
+
+File: example_MOF_mof-11819273.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 73, 'formula': 'C35H22N4O10Zn2'}
+
+File: example_MOF_mof-5f8df55f.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 84, 'formula': 'C37H32N4O8SZn2'}
+
+File: example_MOF_mof-62dd0bbb.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 74, 'formula': 'C34H23N5O9SZn2'}
+
+File: example_MOF_mof-84f479db.cif
+Error: cif2lammps conversion failed: No UFF4MOF type identified for atom O with neighbors H C C
+Details: {'atoms_count': 85, 'formula': 'C38H33N3O9Zn2'}
+
+File: example_MOF_mof-94262848.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C C O
+Details: {'atoms_count': 74, 'formula': 'C32H24N6O8S2Zn2'}
+
+File: example_MOF_mof-d55b25e0.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 70, 'formula': 'C35H22N2O9Zn2'}
+
+File: example_MOF_mof-83a34ace.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 75, 'formula': 'C36H25N3O9Zn2'}
+
+File: example_MOF_mof-91356c90.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C C C C O
+Details: {'atoms_count': 73, 'formula': 'C35H22N4O10Zn2'}
+
+File: example_MOF_mof-de9c47ce.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 82, 'formula': 'C37H32N2O9Zn2'}
+
+File: example_MOF_mof-42846dd6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 66, 'formula': 'C31H18N4O10SZn2'}
+
+File: example_MOF_mof-36aca08d.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 74, 'formula': 'C33H23N7O9Zn2'}
+
+File: example_MOF_mof-c9fc6cfe.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 72, 'formula': 'C32H24N4O9SZn2'}
+
+File: example_MOF_mof-f68f470b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 71, 'formula': 'C34H23N3O8SZn2'}
+
+File: example_MOF_mof-1b7971fa.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 82, 'formula': 'C37H32N2O9Zn2'}
+
+File: example_MOF_mof-be0f6b18.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 68, 'formula': 'C32H21N3O9SZn2'}
+
+File: example_MOF_mof-c4e5d6a5.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H O C C C
+Details: {'atoms_count': 69, 'formula': 'C32H21F3N2O9Zn2'}
+
+File: example_MOF_mof-08daf90a.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 78, 'formula': 'C38H27N3O8Zn2'}
+
+File: example_MOF_mof-fb4fc878.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C O C C
+Details: {'atoms_count': 71, 'formula': 'C32H21F3N4O8SZn2'}
+
+File: example_MOF_mof-6c84dfe3.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C N C C H C
+Details: {'atoms_count': 72, 'formula': 'C37H21N3O9Zn2'}
+
+File: example_MOF_mof-f5ddd7bd.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 70, 'formula': 'C33H20N4O11Zn2'}
+
+File: example_MOF_mof-a3129b77.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H O C C C
+Details: {'atoms_count': 71, 'formula': 'C34H23N3O8SZn2'}
+
+File: example_MOF_mof-33a8ff36.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C C
+Details: {'atoms_count': 80, 'formula': 'C40H26N4O8Zn2'}
+
+File: example_MOF_mof-9071dd3c.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 77, 'formula': 'C37H24N6O8Zn2'}
+
+File: example_MOF_mof-b44a6eb2.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 73, 'formula': 'C36H23N3O9Zn2'}
+
+File: example_MOF_mof-129188d5.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 68, 'formula': 'C31H21N3O11Zn2'}
+
+File: example_MOF_mof-d5e63b8d.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H C C O C
+Details: {'atoms_count': 83, 'formula': 'C37H30N6O8Zn2'}
+
+File: example_MOF_mof-56f407e0.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 68, 'formula': 'C32H21N3O9SZn2'}
+
+File: example_MOF_mof-8dd80afe.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 66, 'formula': 'C30H18N4O12Zn2'}
+
+File: example_MOF_mof-0f927632.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 74, 'formula': 'C36H22F3N3O8Zn2'}
+
+File: example_MOF_mof-2a33d2f7.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 74, 'formula': 'C34H23N5O9SZn2'}
+
+File: example_MOF_mof-2af5e09c.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 84, 'formula': 'C37H32N4O8SZn2'}
+
+File: example_MOF_mof-d5c49263.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 74, 'formula': 'C34H24N6O8Zn2'}
+
+File: example_MOF_mof-511296dd.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 75, 'formula': 'C35H24N4O10Zn2'}
+
+File: example_MOF_mof-0376ad44.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 74, 'formula': 'C37H23N3O8SZn2'}
+
+File: example_MOF_mof-7ece83ce.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 73, 'formula': 'C32H22N8O8SZn2'}
+
+File: example_MOF_mof-a573f6bf.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 70, 'formula': 'C32H21N5O8S2Zn2'}
+
+File: example_MOF_mof-bd070d05.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 66, 'formula': 'C32H18N4O8S2Zn2'}
+
+File: example_MOF_mof-66ebc81b.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C N C
+Details: {'atoms_count': 73, 'formula': 'C36H22N4O8SZn2'}
+
+File: example_MOF_mof-3a7e0671.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 80, 'formula': 'C36H29N3O10Zn2'}
+
+File: example_MOF_mof-69395979.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 70, 'formula': 'C32H19F3N6O8Zn2'}
+
+File: example_MOF_mof-43c4f367.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 75, 'formula': 'C34H26N4O8SZn2'}
+
+File: example_MOF_mof-1eda72b2.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 74, 'formula': 'C33H23N7O9Zn2'}
+
+File: example_MOF_mof-71b495c6.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 71, 'formula': 'C33H22N4O9SZn2'}
+
+File: example_MOF_mof-a3830ebe.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 71, 'formula': 'C32H22N6O9Zn2'}
+
+File: example_MOF_mof-8f623362.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 78, 'formula': 'C37H26N4O8SZn2'}
+
+File: example_MOF_mof-0e9202fd.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 87, 'formula': 'C41H33N3O8Zn2'}
+
+File: example_MOF_mof-50702b44.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C C O
+Details: {'atoms_count': 75, 'formula': 'C33H25N5O9SZn2'}
+
+File: example_MOF_mof-d8b79e1d.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 69, 'formula': 'C32H19N7O8SZn2'}
+
+File: example_MOF_mof-11c6c085.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 68, 'formula': 'C34H19N3O10Zn2'}
+
+File: example_MOF_mof-c9d6198a.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C O C C
+Details: {'atoms_count': 77, 'formula': 'C37H24N6O8Zn2'}
+
+File: example_MOF_mof-b2fd9362.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 76, 'formula': 'C36H23N7O8Zn2'}
+
+File: example_MOF_mof-5eb6a359.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O O
+Details: {'atoms_count': 81, 'formula': 'C41H27N3O8Zn2'}
+
+File: example_MOF_mof-b0a5af60.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C O C
+Details: {'atoms_count': 74, 'formula': 'C37H23N3O8SZn2'}
+
+File: example_MOF_mof-2c3f246a.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors C C O C
+Details: {'atoms_count': 72, 'formula': 'C34H23N3O10Zn2'}
+
+File: example_MOF_mof-ff9b753c.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H C C C O
+Details: {'atoms_count': 75, 'formula': 'C39H23N3O8Zn2'}
+
+File: example_MOF_mof-4b1f007d.cif
+Error: cif2lammps conversion failed: Too many neighbors for aromatic carbon C with neighbors H H H C C C
+Details: {'atoms_count': 71, 'formula': 'C32H22N4O11Zn2'}
+
+
+Lammps Simulation Failures (13):
+----------------------------------------
+File: example_MOF_mof-4dad451f.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1078 5     56     55     57
+Details: {'atoms_count': 85, 'formula': 'C39H34N2O8Zn2'}
+
+File: example_MOF_mof-979e2bd5.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1065 6     130    56     57
+Details: {'atoms_count': 73, 'formula': 'C37H24N2O8Zn2'}
+
+File: example_MOF_mof-6594b536.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1081 5     123    51     52
+Details: {'atoms_count': 72, 'formula': 'C34H23F3N2O8Zn2'}
+
+File: example_MOF_mof-82a7df21.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1153 5     152    67     68
+Details: {'atoms_count': 85, 'formula': 'C39H34N2O8Zn2'}
+
+File: example_MOF_mof-7777885a.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1078 5     45     44     46
+Details: {'atoms_count': 72, 'formula': 'C34H23F3N2O8Zn2'}
+
+File: example_MOF_mof-70442069.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Angle atoms 106 112 84 missing on proc 0 at step 64 (src/src/ntopo_angle_all.cpp:6
+Details: {'atoms_count': 74, 'formula': 'C36H22N4O10Zn2'}
+
+File: example_MOF_mof-409dcd7b.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1078 5     50     49     51
+Details: {'atoms_count': 76, 'formula': 'C36H28N2O8Zn2'}
+
+File: example_MOF_mof-53092711.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1161 7     132    56     57
+Details: {'atoms_count': 75, 'formula': 'C36H25N3O9Zn2'}
+
+File: example_MOF_mof-3797286a.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1094 5     49     47     48
+Details: {'atoms_count': 75, 'formula': 'C36H25N3O9Zn2'}
+
+File: example_MOF_mof-f5730946.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1257 5     140    61     62
+Details: {'atoms_count': 79, 'formula': 'C39H28N2O8Zn2'}
+
+File: example_MOF_mof-0c5d14e4.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1254 5     51     49     50
+Details: {'atoms_count': 79, 'formula': 'C39H28N2O8Zn2'}
+
+File: example_MOF_mof-debab1d1.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Angle atoms 44 45 14 missing on proc 0 at step 8 (src/src/ntopo_angle_all.cpp:62)
+Details: {'atoms_count': 76, 'formula': 'C40H24N2O8Zn2'}
+
+File: example_MOF_mof-517fd94c.cif
+Error: Failed during LAMMPS execution or trajectory reading: LAMMPS simulation failed: ERROR on proc 0: Invalid atom ID in Dihedrals section of data file: 1145 6     134    57     58
+Details: {'atoms_count': 76, 'formula': 'C35H27N3O9Zn2'}
+

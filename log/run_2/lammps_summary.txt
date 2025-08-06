@@ -1,0 +1,50 @@
+LAMMPS Pipeline Processing Summary
+==================================================
+
+OVERALL STATISTICS:
+--------------------
+Total files processed: 169
+Overall successful simulations: 25
+Overall success rate: 14.79%
+Elapsed time: 254.38662981987 seconds
+
+PIPELINE-SPECIFIC SUCCESS RATES:
+-----------------------------------
+cif2lammps success rate: 22.49% (38/169)
+  └─ Files that successfully passed cif2lammps conversion
+LAMMPS simulation success rate: 65.79% (25/38)
+  └─ Among files that passed cif2lammps
+
+FAILURE BREAKDOWN:
+--------------------
+cif2lammps conversion failures: 131
+LAMMPS simulation failures: 13
+Other failures: 0
+
+SUCCESSFUL STRUCTURAL STABILITIES:
+-----------------------------------
+example_MOF_mof-d7963d75.cif: 0.12042759045640142 - 36.03383922576904 seconds
+example_MOF_mof-74ba0d6e.cif: 0.12910258667311883 - 39.54618716239929 seconds
+example_MOF_mof-f325df90.cif: 0.17617038370451893 - 45.65593719482422 seconds
+example_MOF_mof-319b7a9f.cif: 0.1120396478204828 - 45.163942098617554 seconds
+example_MOF_mof-154bca43.cif: 0.11620712552827236 - 47.86669611930847 seconds
+example_MOF_mof-ae8d56e8.cif: 0.16027906309679915 - 37.14747214317322 seconds
+example_MOF_mof-960d9ae5.cif: 0.1129258526435454 - 44.01860737800598 seconds
+example_MOF_mof-eb5cc430.cif: 0.1553883122873861 - 38.65291118621826 seconds
+example_MOF_mof-ac32b00c.cif: 0.08538728406782149 - 29.64976930618286 seconds
+example_MOF_mof-35045160.cif: 0.16850545400879302 - 19.93977952003479 seconds
+example_MOF_mof-daa2af0d.cif: 0.11502989264616875 - 72.96081900596619 seconds
+example_MOF_mof-26d3fb3f.cif: 0.15708519075560415 - 43.025739908218384 seconds
+example_MOF_mof-9d21d656.cif: 0.14698382658590498 - 44.38746356964111 seconds
+example_MOF_mof-e2e85b06.cif: 0.1286985604923903 - 61.08684539794922 seconds
+example_MOF_mof-da229ab6.cif: 0.13874450363501906 - 47.045859575271606 seconds
+example_MOF_mof-2d805318.cif: 0.14920770530258917 - 36.80659198760986 seconds
+example_MOF_mof-0b3e30d1.cif: 0.10521692090123805 - 45.631070613861084 seconds
+example_MOF_mof-b372ea5e.cif: 0.10690668471198597 - 37.72690534591675 seconds
+example_MOF_mof-1f7058da.cif: 0.15621946009386342 - 37.735251903533936 seconds
+example_MOF_mof-23bf5ff7.cif: 0.1475737214594457 - 33.69132614135742 seconds
+example_MOF_mof-6711d2a1.cif: 0.11350822138216504 - 59.27451133728027 seconds
+example_MOF_mof-faf4b0ce.cif: 0.09854132810250005 - 29.115041971206665 seconds
+example_MOF_mof-39a43dec.cif: 0.1317263904585405 - 45.1756055355072 seconds
+example_MOF_mof-d0043cd9.cif: 0.12294939181206296 - 47.44596195220947 seconds
+example_MOF_mof-d0a72f6c.cif: 0.13216311762998673 - 60.789300203323364 seconds

@@ -11,14 +11,18 @@ from langchain_openai import ChatOpenAI
 from langchain_core.messages import AIMessage, HumanMessage
 from langchain.agents import AgentExecutor, create_openai_tools_agent
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-from langchain.tools import tool
-from langchain.tools import Tool
 
-#from tools import predict_mof_property, predict_mof_property_fake1, predict_mof_property_fake2, predict_mof_property_fake3
-from tools import make_mof_transformer_tool, make_random_normal_tool, make_random_uniform_tool, make_noisy_mof_transformer_tool, make_mof_db_tool
+from ai_scientist.tools import (make_mof_transformer_tool, make_random_normal_tool, make_random_uniform_tool, 
+make_noisy_mof_transformer_tool, make_mof_db_tool, make_mof_assemble_tool, make_lammps_tool, make_check_smiles_tool, make_generate_linkers_tool)
 
-from reflector import ReflectionAgent
-from tool_agents import MOFTransformerAgent, NormalRandomVariableAgent, UniformRandomVariableAgent, NoisyMOFTransformerAgent, MOFDatabaseAgent
+from ai_scientist.reflector import ReflectionAgent
+from ai_scientist.tool_agents import (MOFTransformerAgent, NormalRandomVariableAgent, 
+UniformRandomVariableAgent, NoisyMOFTransformerAgent, MOFDatabaseAgent, MOFAssembleAgent, LammpsAgent, CheckSmilesAgent, GenerateLinkersAgent)
+
+# from tools import make_mof_transformer_tool, make_random_normal_tool, make_random_uniform_tool, make_noisy_mof_transformer_tool, make_mof_db_tool
+
+# from reflector import ReflectionAgent
+# from tool_agents import MOFTransformerAgent, NormalRandomVariableAgent, UniformRandomVariableAgent, NoisyMOFTransformerAgent, MOFDatabaseAgent
 
 from academy.agent import Agent, action, loop
 from academy.handle import Handle
@@ -34,7 +38,10 @@ class ToolCallerAgent(Agent):
                  random_uniform_agent: Handle[UniformRandomVariableAgent],
                  noisy_mof_transformer_agent: Handle[NoisyMOFTransformerAgent],
                  mof_db_agent: Handle[MOFDatabaseAgent],
-                 model: str = "gpt-4o",
+                 mof_assemble_agent: Handle[MOFAssembleAgent],
+                 lammps_agent: Handle[LammpsAgent],
+                 generate_linkers_agent: Handle[GenerateLinkersAgent],
+                 model: str = "gpt-4o-2024-08-06",
                  prompts_dir = PROMPTS_DIR):
 
         super().__init__()
@@ -51,7 +58,12 @@ class ToolCallerAgent(Agent):
         self.random_normal_agent = random_normal_agent
         self.random_uniform_agent = random_uniform_agent
         self.noisy_mof_transformer_agent = noisy_mof_transformer_agent
+        
         self.mof_db_agent = mof_db_agent
+        self.mof_assemble_agent = mof_assemble_agent
+        self.lammps_agent = lammps_agent
+        self.generate_linkers_agent = generate_linkers_agent
+        
         
         self._tools = None
         self._executor = None
@@ -60,20 +72,27 @@ class ToolCallerAgent(Agent):
             self.reflection_prompt = f.read()
 
         self.max_reflections = 5
+        self.max_num_insufficient = 3
         self.chat_history = []
 
         print("AI Scientist (LangChain MOF Agent) Initializing...")
         print(f"Model selected: {self.model_name}")
 
-    async def agent_on_startup(self) -> None:
+    @action
+    async def add_tools(self) -> None:
         self.tools = []
         self.tools.append(make_mof_transformer_tool(self.mof_transformer_agent))
         self.tools.append(make_random_normal_tool(self.random_normal_agent))
         self.tools.append(make_random_uniform_tool(self.random_uniform_agent))
         self.tools.append(make_noisy_mof_transformer_tool(self.noisy_mof_transformer_agent)) 
         self.tools.append(make_mof_db_tool(self.mof_db_agent))
+        self.tools.append(make_mof_assemble_tool(self.mof_assemble_agent))
+        self.tools.append(make_lammps_tool(self.lammps_agent))
+        self.tools.append(make_generate_linkers_tool(self.generate_linkers_agent))
 
         self.agent_executor = self._create_agent(self.tools)
+
+        print('Finished Adding Tools')
 
     def _create_agent(self, tools: List):
         print('Launching Tool-Calling Agent')
@@ -104,6 +123,8 @@ class ToolCallerAgent(Agent):
 
         final_response = ""
         success_code = 0 # 0 = success, 1 = early exit by tool-calling agent, 2 = exit after reflection
+
+        num_insufficient = 0
         
         while reflection_iter <= self.max_reflections:
             print(f"\n[Invoking agent with prompt: '{message}']")
@@ -124,24 +145,32 @@ class ToolCallerAgent(Agent):
                                AIMessage(content=f"AI Scientist output: {response['output']}"), 
                                HumanMessage(content=f"The following tools were used: {used_tools}")]
 
-            refl_future = await self.reflection_agent.reflect(reflection_inpt)
-            reflection_output = await refl_future
+            reflection_output = await self.reflection_agent.reflect(reflection_inpt)
+            #reflection_output = await refl_future
             
             reflection_chat_history.append(AIMessage(content=response['output']))
 
             if "INSUFFICIENT" in response['output']:
-                final_response = 'There are insufficient or inadequate tools to respond to the user request.'
-                success_code = 1
-                break
+                #final_response = 'There are insufficient or inadequate tools to respond to the user request.'
+                #success_code = 1
+                #break
+                num_insufficient += 1
 
             if "INSUFFICIENT" in reflection_output:
-                final_response = 'There are insufficient or inadequate tools to respond to the user request.'
-                success_code = 2
-                break
+                #final_response = 'There are insufficient or inadequate tools to respond to the user request.'
+                #success_code = 2
+                #break
+                num_insufficient += 1
 
             if "PROCEED" in reflection_output:
                 reflection_chat_history.append(HumanMessage(content=f"Reflection feedback: {reflection_output}."))
                 final_response = response['output']
+                break
+
+
+            if num_insufficient > self.max_num_insufficient:
+                final_response = 'There are insufficient or inadequate tools to respond to the user request.'
+                success_code = 1
                 break
 
             print("Reflection: Re-running the agent based on feedback.")

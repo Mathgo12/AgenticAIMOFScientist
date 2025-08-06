@@ -1,0 +1,32 @@
+Linker description: Linkers with TWO COO anchor groups
+
+SMILES: 
+O=C(O)c1cc(ccc1C(=O)O)OC
+O=C(O)c1cc(cc(c1)C(=O)O)NC(=O)C
+O=C(O)c1ccc(cc1C(=O)O)SC#N
+O=C(O)c1cc(cc(c1)C(=O)O)C(F)(F)F
+O=C(O)c1cc(ccc1C(=O)O)N(=O)=O
+O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC=C1
+O=C(O)c1ccc(cc1C(=O)O)C(=O)OC
+O=C(O)c1cc(cc(c1)C(=O)O)C#CC#C
+O=C(O)c1ccc(cc1C(=O)O)CC(=O)O
+O=C(O)c1cc(cc(c1)C(=O)O)C1CCCCC1
+O=C(O)c1ccc(cc1C(=O)O)NC(=S)N
+O=C(O)c1cc(cc(c1)C(=O)O)C1=NC=CO1
+O=C(O)c1ccc(cc1C(=O)O)C1=NN=NN1
+O=C(O)c1cc(cc(c1)C(=O)O)C1CC1
+O=C(O)c1ccc(cc1C(=O)O)C1=CC=NC=C1
+==================================================
+
+Linker description: Linkers with TWO cyano anchor groups
+
+SMILES: 
+N#CC1=CC(C#N)=CC=C1C2=CC=C(C#N)C=C2
+N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2
+N#CC1=CC(C#N)=CC=C1C#N
+N#CC1=CC=C(C#N)C=C1C2=CC=C(C#N)C=C2
+N#CC1=CC=CC(C#N)=C1C2=CC=C(C#N)C=C2
+N#CC1=CC(C#N)=CC(C#N)=C1
+N#CC1=CC=C(C2=CC(C#N)=CC(C#N)=C2)C=C1
+==================================================
+

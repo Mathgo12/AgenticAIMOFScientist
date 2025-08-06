@@ -1,0 +1,3 @@
+cif_path,mof_name,status,stability,num_frames,error
+/home/x-sappana/MOFScientist/tools/assemble_mofs/example_mof_cifs/example_MOF_2025-07-24_11-25-32.cif,,failed,,0,[Errno 13] Permission denied: 'lmp_sims/mof-e182d34f/mof-e182d34f.cif'
+/home/x-sappana/MOFScientist/tools/assemble_mofs/example_mof_cifs/example_MOF_2025-07-24_12-26-38.cif,,failed,,0,[Errno 13] Permission denied: 'lmp_sims/mof-48eddbd7/mof-48eddbd7.cif'

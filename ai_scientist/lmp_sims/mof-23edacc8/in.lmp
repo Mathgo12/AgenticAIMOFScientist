@@ -1,0 +1,34 @@
+units           real
+atom_style      full
+boundary        p p p
+
+bond_style      harmonic
+angle_style     hybrid fourier cosine/periodic
+dihedral_style  harmonic
+improper_style  fourier
+
+dielectric      1.0
+pair_style      lj/cut 12.5
+pair_modify     shift yes mix geometric
+special_bonds   lj 0.0 0.0 1.0
+box             tilt large
+read_data       data.lmp
+
+
+
+
+# simulation
+fix                 fxnpt all npt temp 300.0 300.0 $(200.0*dt) tri 1.0 1.0 $(800.0*dt)
+variable            Nevery equal 2500
+thermo              ${Nevery}
+thermo_style        custom step cpu dt time temp press pe ke etotal density xlo ylo zlo cella cellb cellc cellalpha cellbeta cellgamma
+thermo_modify       flush yes
+minimize            1.0e-10 1.0e-10 10000 100000
+reset_timestep      0
+dump                trajectAll all custom ${Nevery} dump.lammpstrj.all id type element x y z q
+dump_modify         trajectAll element C C H N N O O O Zn
+timestep            0.5
+run                 10000
+undump              trajectAll
+write_restart       relaxing.*.restart
+write_data          relaxing.*.data

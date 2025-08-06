@@ -1,0 +1,132 @@
+LAMMPS (29 Aug 2024 - Update 3)
+  using 1 OpenMP thread(s) per MPI task
+units           real
+atom_style      full
+boundary        p p p
+
+bond_style      harmonic
+angle_style     hybrid cosine/periodic fourier
+dihedral_style  harmonic
+improper_style  fourier
+
+dielectric      1.0
+pair_style      lj/cut 12.5
+pair_modify     shift yes mix geometric
+special_bonds   lj 0.0 0.0 1.0
+box             tilt large
+
+The 'box' command has been removed and will be ignored
+
+read_data       data.lmp
+Reading data file ...
+  triclinic box = (0 0 0) to (38.480079 30.98067 20.450858) with tilt (0.31660551 4.819e-05 2.512043)
+  1 by 1 by 1 MPI processor grid
+WARNING: Atom style in data file a, b, c, alpha, beta, gamma: 38.4800793351, 30.9822872640, 20.6045610682, 82.9976242796, 89.9998659925, 89.4144888266 $$$atoms$$$ differs from currently defined atom style full (src/src/read_data.cpp:706)
+  reading atoms ...
+  544 atoms
+  scanning bonds ...
+  7 = max bonds/atom
+  scanning angles ...
+  21 = max angles/atom
+  scanning dihedrals ...
+  12 = max dihedrals/atom
+  scanning impropers ...
+  2 = max impropers/atom
+  triclinic box = (0 0 0) to (38.480079 30.98067 20.450858) with tilt (0.31660551 4.819e-05 2.512043)
+  1 by 1 by 1 MPI processor grid
+  reading bonds ...
+  632 bonds
+  reading angles ...
+  1216 angles
+  reading dihedrals ...
+  1232 dihedrals
+  reading impropers ...
+  256 impropers
+Finding 1-2 1-3 1-4 neighbors ...
+  special bond factors lj:    0        0        1       
+  special bond factors coul:  0        0        0       
+     7 = max # of 1-2 neighbors
+    12 = max # of 1-3 neighbors
+    28 = max # of 1-4 neighbors
+    23 = max # of special neighbors
+  special bonds CPU = 0.093 seconds
+  read_data CPU = 0.297 seconds
+
+
+
+
+# simulation
+fix                 fxnpt all npt temp 300.0 300.0 $(200.0*dt) tri 1.0 1.0 $(800.0*dt)
+fix                 fxnpt all npt temp 300.0 300.0 200 tri 1.0 1.0 $(800.0*dt)
+fix                 fxnpt all npt temp 300.0 300.0 200 tri 1.0 1.0 800
+variable            Nevery equal 2500
+thermo              ${Nevery}
+thermo              2500
+thermo_style        custom step cpu dt time temp press pe ke etotal density xlo ylo zlo cella cellb cellc cellalpha cellbeta cellgamma
+thermo_modify       flush yes
+minimize            1.0e-10 1.0e-10 10000 100000
+Generated 10 of 10 mixed pair_coeff terms from geometric mixing rule
+Neighbor list info ...
+  update: every = 1 steps, delay = 0 steps, check = yes
+  max neighbors/atom: 2000, page size: 100000
+  master list distance cutoff = 14.5
+  ghost atom cutoff = 14.5
+  binsize = 7.25, bins = 6 5 3
+  1 neighbor lists, perpetual/occasional/extra = 1 0 0
+  (1) pair lj/cut, perpetual
+      attributes: half, newton on
+      pair build: half/bin/newton/tri
+      stencil: half/bin/3d/tri
+      bin: standard
+WARNING: Inconsistent image flags (src/src/domain.cpp:1051)
+Per MPI rank memory allocation (min/avg/max) = 19.34 | 19.34 | 19.34 Mbytes
+   Step          CPU             Dt            Time           Temp          Press          PotEng         KinEng         TotEng        Density          Xlo            Ylo            Zlo           Cella          Cellb          Cellc        CellAlpha       CellBeta      CellGamma   
+         0   0              1              0              0              37923.508      8334.7617      0              8334.7617      0.39084619     0              0              0              38.480079      30.982287      20.604561      82.997624      89.999866      89.414489    
+        26   8.4032515      1              26             0              13796.38       5634.0966      0              5634.0966      0.39084619     0              0              0              38.480079      30.982287      20.604561      82.997624      89.999866      89.414489    
+Loop time of 8.40333 on 1 procs for 26 steps with 544 atoms
+
+7.1% CPU use with 1 MPI tasks x 1 OpenMP threads
+
+Minimization stats:
+  Stopping criterion = energy tolerance
+  Energy initial, next-to-last, final = 
+      8334.76167508002   5634.09662380428   5634.09662377887
+  Force two-norm initial, final = 4024.482 38456.432
+  Force max component initial, final = 534.86719 14630.632
+  Final line search alpha, max atom move = 4.1717355e-10 6.1035125e-06
+  Iterations, force evaluations = 26 521
+
+MPI task timing breakdown:
+Section |  min time  |  avg time  |  max time  |%varavg| %total
+---------------------------------------------------------------
+Pair    | 7.2986     | 7.2986     | 7.2986     |   0.0 | 86.85
+Bond    | 1.0971     | 1.0971     | 1.0971     |   0.0 | 13.06
+Neigh   | 0          | 0          | 0          |   0.0 |  0.00
+Comm    | 0.005102   | 0.005102   | 0.005102   |   0.0 |  0.06
+Output  | 0          | 0          | 0          |   0.0 |  0.00
+Modify  | 0          | 0          | 0          |   0.0 |  0.00
+Other   |            | 0.002603   |            |       |  0.03
+
+Nlocal:            544 ave         544 max         544 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Nghost:           3074 ave        3074 max        3074 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+Neighs:          73552 ave       73552 max       73552 min
+Histogram: 1 0 0 0 0 0 0 0 0 0
+
+Total # of neighbors = 73552
+Ave neighs/atom = 135.20588
+Ave special neighs/atom = 12.5
+Neighbor list builds = 0
+Dangerous builds = 0
+reset_timestep      0
+dump                trajectAll all custom ${Nevery} dump.lammpstrj.all id type element x y z q
+dump                trajectAll all custom 2500 dump.lammpstrj.all id type element x y z q
+dump_modify         trajectAll element C H N O Zn
+timestep            0.5
+run                 10000
+Generated 10 of 10 mixed pair_coeff terms from geometric mixing rule
+WARNING: Inconsistent image flags (src/src/domain.cpp:1051)
+Per MPI rank memory allocation (min/avg/max) = 18.21 | 18.21 | 18.21 Mbytes
+   Step          CPU             Dt            Time           Temp          Press          PotEng         KinEng         TotEng        Density          Xlo            Ylo            Zlo           Cella          Cellb          Cellc        CellAlpha       CellBeta      CellGamma   
+         0   0              0.5            0              0              13796.38       5634.0966      0              5634.0966      0.39084619     0              0              0              38.480079      30.982287      20.604561      82.997624      89.999866      89.414489    

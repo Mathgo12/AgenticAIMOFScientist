@@ -1,0 +1,2002 @@
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a8fda50f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-763ba0ae.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a33efb26.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-4766b767.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-6a819061.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-5a8d2f67.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-dc798019.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-0289ea79.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a8fda50f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-dfde148e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-981ef728.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8c2765db.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-1ddeef39.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d4719b1c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-63f37ffd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-f6709056.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-63f37ffd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b66e1a1d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-a0788f14.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-53905cca.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-4b369592.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-2c6185d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2fec041a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d9b8f766.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-4841ace5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-ab14b982.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e99fa5e9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-4841ace5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-0cd897bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c39e72b8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-debc4ed4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2a3a2eaa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3cee2286.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-a124b969.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-85895876.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-9bb22862.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-ed674354.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-85895876.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fe371218.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b05f6b0c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-b577586f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2a411815.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-119f0c3a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-54835199.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-44c747fb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-2e0aa473.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-44c747fb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-cd9cc050.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-ad2c479c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ea7a1c07.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-8c84690b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-4e2180ac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-0f3d43b6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1da818d0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-12a4273c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-ca9f5f28.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-f34d570f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-12a4273c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8498f24a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-7f9544ba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-622ec2be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-475e45ae.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-351e9515.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-b42e24ed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-98f419e4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-512a8e25.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6da47d0c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-98f419e4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-851cc6d2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-05f76df9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c51dfe41.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e99edf22.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a5bf3938.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d0518ec2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-d7ea400d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-e7e6fc9a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-68b15e1b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-d7ea400d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-2f087b4c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ec5439f6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-490b159f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-497b68e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-78223075.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-383f40b2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b1fd6b31.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-d9d1e640.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-ee73fb72.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-4e30b92a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b1fd6b31.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-dd58d8fd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-55797e34.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8001e008.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-ce67d762.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-668414c0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-9e17c3be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6a2d6c83.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-059bdc91.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-9e17c3be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-6e40fadb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-0766aa56.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-9ee72f77.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-59219bf2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-d02d4444.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-36c555f8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-59740f51.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-cbc7c9eb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-7635932f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-59740f51.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-4bd261bf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-e1bb78c1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-d8380f35.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c8c7815b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-32ddfa55.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-69ac64d1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-643ce880.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-99322082.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-73c785d1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8e28f74b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-643ce880.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-048ea771.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-46e4e7f7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-48f59ae7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a41dea67.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-5bd1c16e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b7259625.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-31e48650.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-fd75a965.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b7259625.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-54c75328.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f276cf8e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-51c06665.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3bc1ca82.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-21b42689.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-bd1ae92f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-5a9ecf89.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-9e16c905.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3b5766a3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-5a9ecf89.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fb65395c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-a41fa32c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-f99f3e60.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-40908e25.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-b3ee8b67.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-56073cf1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-c9a7b007.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-83dd1dc7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-f2de1dac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-c9a7b007.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fb2b4327.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-83f32e05.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-726c2b00.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1aced53c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a2ff50f3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e29f1253.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-6b509e36.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-9cbf3cef.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-9cd284c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-6b509e36.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e108dee3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-5ba6033f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-f9639740.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6f6fb58c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-95a38136.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-b1f72edf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-9ee7aef4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-9e9be828.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2c01ba18.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-9ee7aef4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-a3b826aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f1b2f641.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-d717574b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c6fb2eff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-1055e00e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-fe8d84b4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-6ad0b124.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-4854a8e4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-55879228.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-6ad0b124.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8766beb6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-d4191113.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-1e4d719a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-dc24c885.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-5543747e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-dcc67c96.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-fd9848bd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-50ca2484.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-38a41646.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-fd9848bd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-dc62eb32.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-10b2d2f4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c4abed5f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2ba19bfe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-c9ae4ef1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-2d5c5ef1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a76a7d70.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-7952109d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-bda8d39f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a76a7d70.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-d5624e7e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-80cd0a6c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-9ae2cd0a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c88e8685.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-003220aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-236f7553.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-331b7d87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-7a5484d6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-0282e567.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-331b7d87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-be40959d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c225acac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-61839d6e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b50be269.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3cce9f13.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-957e388c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-c3e1a94e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-7a16d877.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-24516c19.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-c3e1a94e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8ac11442.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-bc08ff0e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-ec46f3f5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-16e90e50.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-49655294.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-bf5120d1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-2a99caad.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-87e96eec.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-4f8b8b21.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-2a99caad.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-d8bb28e1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-243ca886.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-59ec66e4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-becc8735.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-eebdb9fe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-42ece651.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-ec0d51e5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6064ed67.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-708aca38.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-ec0d51e5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-69829d4b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-4e0047ff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-fe3147b8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-a18ba021.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-621cc206.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-77fb7618.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-2ac03722.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-494197fe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-0fc5e6aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-2ac03722.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-55dbb42b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-20c7447a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-cb500d5f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1d5076d6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-7a30978c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-99de5457.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-52fd083e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-4b054261.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-373bd28f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-52fd083e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e5511f7f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-57a5c4be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-87f8c667.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2d0d029b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-411fd8e4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-566133b7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-63e20e87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-90efbe96.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b22a8d07.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-63e20e87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-40a8b479.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-296e36c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2e06cb24.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-420f25f6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-7cdf5595.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-7a873f9d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0d60f2d2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-651cbd56.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-4dfe43ce.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0d60f2d2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-420d1ff3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-054d49a9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-b81ca7bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-23c26fe2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9c7865ff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-5ff588ca.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-7b987a94.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-69fdbadb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-33c270c4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-7b987a94.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-b3b46d39.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-9a09a25b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c65ac2b0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-41bb31d4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-67913d3f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-9e6bda72.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-9187f0e6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-644e65f3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-45e4b3bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-9187f0e6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fbe7d87c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ecb02b4a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-17f65587.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2478c84b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-616203b5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-362826ee.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0c64189e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-cfdce2fc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-cabf481e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0c64189e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-1e9d7916.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-386eab76.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-d20152a3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-db720579.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-18f10121.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-014627a6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-955490dd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-e74ac807.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2f7d7717.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-955490dd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-9d33851a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b1af20cc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-729ef923.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-64b8022a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-5c48f773.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-117134da.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-baf2258f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-402ce275.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b576dc90.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-baf2258f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-80c96425.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-395f42b0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-db5afc80.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c14a2440.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-60f7a2c4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-05056a62.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b269b575.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-f72aaf34.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2d45fd37.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b269b575.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-5aa19ef5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-4513f9a3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-254bc87d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-523e8f64.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-dfa82746.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-098ce087.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b5587faf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-722c30c1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-8a428ee3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b5587faf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-36b7b5d9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b701c5e7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-9ae20b37.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-cd5d239d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-f4cf2c58.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-91059920.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-6b0ab39c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-b997955f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-eb7a6da8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-6b0ab39c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-01f5048f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-8fb09441.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-f58486ff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-519a4e57.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9ecb3d30.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-cb981d84.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-487ee35d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-c67689bd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-63e56286.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-487ee35d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-f67874cc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-4c218b47.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-946b99d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3b8d82c7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-0afbd9b8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-7bf601f7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-ba2f9747.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-0c81cffd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b11abd17.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-ba2f9747.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fea89629.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-7dff151e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-787f5ce6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2f20f659.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-d0dc536a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-6bca8d96.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-9e91a3c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-df17335f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-14922acb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-9e91a3c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-f991bbad.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-92bfdfcd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-90f2e42c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-19430e3d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-41e90d9b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-cf9881ab.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-5b57e578.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-8d24b415.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2f5203e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-5b57e578.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-c8da47a4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f96deb65.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c6023a78.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-370659f4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9d5b95fa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-522efdb8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-2e50dd0a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-d8c48faf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-a1f01916.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-2e50dd0a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-065dc2e8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-15b3d801.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-e1c16319.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-272fd9b3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-beb9e516.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-3adc8733.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-cd7ea151.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-880cb081.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-0f97a27b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-cd7ea151.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-c5cc47b7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-611e27dd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-3b5ae0dc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3ca29be1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-37283da5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-9654faf6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0b7bcd5b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-48659c33.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0b7bcd5b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-eb252718.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-f61ea5b5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b1182ed6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2bfb50bd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-ad427b00.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-6b78a6f8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-145eefbb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-27adfaff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-c1f56f00.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6ed3ea65.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-27adfaff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-d26cc0d8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b9488bbe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-563d9399.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3bf9bdd5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-5d5002f8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e00b9e51.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-aabcf5b9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-106a1611.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-18c64972.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-aabcf5b9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-78b07f10.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-20a844d2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d7f8f330.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-01c93dc3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-047ebbaf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-390c1b4a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-878092aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-90e41a65.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-9c7a611f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-878092aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e7d5efa4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-5abf066b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-53135859.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8332df84.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-fcc35564.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e9ff2f10.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-fc5e44ae.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-dc3e31ff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2dde6817.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-fc5e44ae.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8f7592be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-dc706140.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8ba031d0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-91207d0e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9ba0d6a0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-2551bc93.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-3e71cdaf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-a3275a89.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-de3c3871.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-3e71cdaf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-201026ef.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b79f16a6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2bd01727.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-c528d188.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-16605a46.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-6f142451.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-f9b93e5e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a611cdc0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-0229ffc7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-162e84df.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-1b776e41.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-8a79fb36.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-bb0b8e9c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a611cdc0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a1d337bb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d49b5a95.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-1fd4e19b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-936d7dcb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-066ac2f3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-1fd4e19b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-48017adc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-60e160f6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-4aaacc9f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6a16933a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9b0fe75c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-16aec27f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-668ea52a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-2bec1048.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1a298725.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-668ea52a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-a60b3f60.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-e7f4ea30.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-4a2af70a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-16599e75.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-dfd487bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-168335c0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-36e8a623.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-e10a75e9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-800f85af.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-36e8a623.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-d3b7349e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-07f9947e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-318662b8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a820a3c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-ac660ffd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-7cc1a907.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-96140d35.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-73178305.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ec2673a7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-96140d35.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-98192194.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c3ec1abd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2b13600c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e890988a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-86854c83.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-fb44fe27.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-54254ffb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-52dee1b1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d6ea2c50.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-54254ffb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-edbf84fa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-e4d17298.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-6fe61164.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-716b17f1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-d174d2a9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e2d09da2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-37c373e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-9ce0b2c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-9c897a35.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-b3615f4b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2b924746.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-96ecb113.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-006ca0d4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-61396d5f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-d17bc68f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-9ce0b2c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-57a8a293.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-659d9f7e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-d17bc68f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-bb4f933d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-6d7325f3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-0e59ff60.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-46a9f415.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c912b0ca.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-6b1726dd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e728a1f0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0ed584ef.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-58d1152e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-517875de.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0ed584ef.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-0dd63a8a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-4d4e5082.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-9e8387d4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-81d451e9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-11b7bf98.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-3a6d2d9a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b54a3ba9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-3d0e565a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1042e608.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b54a3ba9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e45596c7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-3b70bed5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-4d105418.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-53f0ed9c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a50f962f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-bde85a55.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-f6fe7f5b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-b43a2f2e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-beba878c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-f6fe7f5b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-216ca415.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-82995500.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-578ff475.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-78c468ca.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-7235f665.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-73bebab9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-7f3e1973.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-1a51ccdb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-52538652.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-7f3e1973.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-5d9eda56.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c1a5b864.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-f7e243bb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-ffd2a115.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-00c56e9c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-ce7e9796.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-7dff0b3f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-79f0da24.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-af629e84.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-7dff0b3f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-3dedd097.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c6b1542d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f29dc270.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-40ac5098.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-48d5d165.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-68cc5480.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-488ca56d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-1aa7f874.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c9805b68.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-1aa7f874.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fa0ff7ba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-3f109501.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-755fbfdd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-efdbd930.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-dbe66cfe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d9ac3f5c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-c56cf18e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-917bd38f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6b76b63e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-c56cf18e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-95dc7f43.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-5972548d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-aeeaf46f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-fd1af5b1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-6bd82535.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-2170abac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-999326c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-cdf05d74.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2e1eb0a8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-999326c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-5b1f5d47.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-bec9dfcc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-92b394db.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-f0dc4fd1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-0fc4526a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-1220aaba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-be83ae89.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-888ef53b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-db60017d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-be83ae89.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-b67f07a1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f72d44b3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-eb599c40.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-fb953841.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3c470e6a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-9e41c2ee.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-4df498a4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-6c1ff441.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-a3938ab8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-6c1ff441.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-3f6d81c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-eabf3c09.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2e1ef16d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-2aea185d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-2f44587b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-f5fc2599.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-1a1ba8a2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-0d2ad116.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-a1e3ef3a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-1a1ba8a2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e98b1057.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-71846718.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-af335690.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1b86472d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-184ef102.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3ec603fe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-858505f4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-de2fb615.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-87d6808f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-858505f4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-a08bd232.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-07b086eb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-055f2c55.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-1e5129fc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-55662016.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e51be1bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6362c371.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-2a87a0e7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-2a87a0e7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-cf2e1bbc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-856d1cca.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-4127c393.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-36e83fe9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-e2337189.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-d4e2f596.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-1adbde08.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-051e825b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-b40f37a0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d90a4d32.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-051e825b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fc9b2af3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-e65a0871.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-f8f206be.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-24c70f32.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-44eb29d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-3cc374f2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-4c0663ed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-effce889.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-5eaf77b0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-effce889.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-c0d393a2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c4f7498e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-64178270.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-643650d1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-bb24bf2b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-6cfc8bb6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-e30a75c9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-f3c2d080.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-33ae1fe8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-e30a75c9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-56404319.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-6e96a373.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-b3dc2371.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-7db78f2a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a63a437a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-065c1bbc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-4c43ea0b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-c85ce745.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-c85ce745.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-f806bd10.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-4d2b990b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-51f6c33d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c588f8f1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c8e810d3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-f853f9c0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-c9465049.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-c77f7ade.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-4e795d50.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d6986934.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-4e795d50.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-2f2813a1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-d2715055.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-407af1ee.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-87b81110.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-d3b3b5ac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-e2d1432e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0f2c98d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-2beaf768.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-f2c17dfc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0f2c98d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-c8a828d0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-64805942.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-6a25888f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-ea7586d7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-dcebb099.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-ea39ca94.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a68a4bed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-02183644.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-57f088f8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a68a4bed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-1d3bbedd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c811f014.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-e57e38c9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-1d933514.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-925eef30.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-c9e6427d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-51e0c890.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-aaa2e513.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-5afe2848.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-51e0c890.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-39d31078.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1e4e3af5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-c215ba23.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-989ba480.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3b999b35.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-89ac0a9e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-06f41af7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-7e9457ba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-999754c3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-7e9457ba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-11cc3991.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-cc9ab683.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c3726bb3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8f6283ea.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-84a93c22.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-c75a0aa8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a67eb0e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-efb2183f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-47ac7ebf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a67eb0e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-97c6a91d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-07fe6ed2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d9440ffa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-7409df44.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-9833d914.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-a09edfd5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-07aff3ed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6c815441.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c3b61add.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-07aff3ed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-858c2654.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-87ace83c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-413c5989.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e7dace00.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-239124ef.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d4f85b81.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-57188a88.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-a747580e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-439d29f8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-57188a88.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-8f246bcf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-55487e87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2df76f6e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-9bb2fd8a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-18d15e91.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-0a695b63.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-e9c12e23.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-34572155.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6024be84.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-e9c12e23.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-c36d58df.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-efb21ca1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-dd2abf2b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-8a3985f6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-e25158b5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-11296bbe.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6807b5c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-1e5350a4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-2cf34cc5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-1e5350a4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-b294f5c4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-a6f36e57.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-45efd0c0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-b8793f48.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-b80e9e33.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-ebbf3e42.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-722ec448.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-f1f3224e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c7f01fc9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-f1f3224e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-a79fd304.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-94ec5ece.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-714fce52.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-5cd53c57.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-bf80d54f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-12f2c765.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-263b2666.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-adbb0e95.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-beaf1eab.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-adbb0e95.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-e7b0484f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-5b0a29f2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-7df88b4f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-f14c0adf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-1a56f3cd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-d5bdadb8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-3a6a270f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-0dca8ad1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d7c9158f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-3a6a270f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-9e6d2745.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-981e1bb5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-1b2693ce.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-05e5e3c9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-e12fdb96.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-5e7e94a2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-f1dc5b6e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a50195ac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a50195ac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-5b0d2905.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-79457934.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-082ab287.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-5062e1f9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-acadbbf3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-d1f5cf9a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-edb087cc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-be156e4c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-6b7b6032.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-20865a98.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-6b7b6032.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-3dcbdc87.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)SC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-34e279da.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6217713f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-8efd36aa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-6c11bdc2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-7a2fce49.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-33b35951.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-0b08f9a6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-015e7551.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-33b35951.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-7c031b33.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-d1097c23.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-29ea2513.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a21a421c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC(=O)C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c6e6ba6d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-b8f7cdea.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-0db57529.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-b3477fff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-7c33ddeb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-b3477fff.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-cccd3dba.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-94dc2738.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a8e49867.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-3671e83e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CO; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-1e2dcd7b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-2b53575b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-07c5376d.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-1ced3c77.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-8a8aaf8b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-1ced3c77.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-4476d8e0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-79d9546a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-a6486ea3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c040dcbc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-a20f4143.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-cc1789c7.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-12f204f2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-75c0dc5c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-41f4bd03.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-75c0dc5c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-d17ed9a0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-0bb0af86.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c4c39417.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-1c2d34d6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-3d7d2ad3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-03403222.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-6da4543c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a7e891c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-a778da2e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a7e891c5.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-fdb3fe60.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-93c075d4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)NC=O; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-cf3d88cc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-bc75a106.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-5faca5f1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-a262526a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-3b7c89e8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a41e36e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e6e255ac.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a41e36e2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-99cc42fa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-5cc8e8e3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-2a7c8d94.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-8ef28cb0.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C(F)(F)F; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ed892ef3.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-c16c8d16.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-198c3e1e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-dea9705e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e165fb19.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-dea9705e.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-57b6088c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)C#N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-ac6986e1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-da1a2abc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-4da94d00.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-1b359a86.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-aee17bd2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-e2e2c0eb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-135a6efa.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-ba766970.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-e2e2c0eb.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-0ad02bb6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-ab709b88.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CC#C; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-1f8c9927.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-dd18bc32.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-b2e96fdf.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-b563dc09.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-636488bc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-a47efabc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c22c6928.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-a47efabc.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-0cdfa981.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-6a1ea21b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-599d9181.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-5535140f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)CN; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-c857bbc4.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-8e608405.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-0341dafd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-547627f1.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-8aa20b70.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-0341dafd.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-29b2bf7f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Cl O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)I; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-39f93b5b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-c6c4079b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-61f3ca6f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-4921cfed.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-49b8f183.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-ea7a7416.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-9bd9d4c9.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-e1b1245c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-ea7a7416.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-34119b4c.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=NC1; MOF: example_MOF_mof-7af390d8.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3e16577b.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=CC(=C1)OC; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-3c5295c6.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1cc(C2=CC(C#N)=CC=C2)ccc1; MOF: example_MOF_mof-2fb45c39.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)OC1; MOF: example_MOF_mof-1e674576.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC(C#N)=CC=C2)C=C1; MOF: example_MOF_mof-30c1d178.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=N1; MOF: example_MOF_mof-83ed38b2.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(=C1)C2=CC=C(C#N)C=C2; MOF: example_MOF_mof-3bd0ab9f.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#Cc1ccc(C2=CC(C#N)=CC=C2)cc1; MOF: example_MOF_mof-30c1d178.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=CC(C2=CC=C(C#N)C=C2)=C1; MOF: example_MOF_mof-b4fcc74a.cif
+
+COO SMILES: O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)Br O=C(O)c1cc(cc(c1)C(=O)O)C1=CC=C(C=C1)N; Cyano SMILES: N#CC1=CC=C(C2=CC=C(C#N)C=C2)C=CC1; MOF: example_MOF_mof-f6a77af6.cif
+
+PERCENT SUCCESSFULLY ASSEMBLED MOFS: 1.0
+
