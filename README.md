@@ -31,4 +31,11 @@ pip3 install -r requirements.txt
 ```bash
 python ai_scientist/run.py --generation-model='o3-mini' --reflection-model='gpt-4o' --tool-calling-model='gpt-4o'
 ```
+- This will enable user input and create a new "run" directory within "log." All outputs from the AI Scientist will be contained in this folder until the program is terminated.
+- Example prompt: "Generate 1000 MOFs by first generating 15 linkers each with TWO COO anchor groups and 10 linkers each with TWO cyano anchor groups. Then, determine the stability of the generated MOFs with a lammps simulation."
+
+
+
+
+
 
