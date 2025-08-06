@@ -23,8 +23,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 PROMPTS_DIR = os.path.join(BASE_DIR, 'ai_scientist/llm_prompts/')
 LOG_DIR = os.path.join(BASE_DIR, 'log')
 
-## ADD ARGPARSE ARGUMENTS - LLMs for each agent
-
 def create_results_csv(output_path: str):
     headers = [
         'folder_path',
@@ -52,22 +50,71 @@ def create_results_csv(output_path: str):
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
 
+def parse_arguments():
+    parser = argparse.ArgumentParser(description='MOF Analysis Tool with configurable LLM models')
     
+    parser.add_argument(
+        '--generation-model', 
+        type=str, 
+        choices=['gpt-4o', 'o3-mini', 'claude-sonnet-4-20250514', 'deepseek-chat'],
+        default='deepseek-chat',
+        help='LLM model to use for generation (default: deepseek-chat)'
+    )
+    
+    parser.add_argument(
+        '--reflection-model',
+        type=str,
+        choices=['gpt-4o', 'o3-mini', 'claude-sonnet-4-20250514', 'deepseek-chat'],
+        default='gpt-4o',
+        help='LLM model to use for reflection agent (default: gpt-4o)'
+    )
+    
+    parser.add_argument(
+        '--tool-calling-model',
+        type=str,
+        choices=['gpt-4o', 'o3-mini', 'claude-sonnet-4-20250514', 'deepseek-chat'],
+        default='gpt-4o',
+        help='LLM model to use for tool calling agent (default: gpt-4o)'
+    )
+    
+    return parser.parse_args()
+
+def get_api_key_for_model(model: str) -> str:
+    """Return the appropriate API key based on the model name."""
+    if model.startswith('gpt-') or model.startswith('o3-'):
+        return os.environ.get('OPENAI_API_KEY')
+    elif model.startswith('claude-'):
+        return os.environ.get('ANTHROPIC_API_KEY')
+    elif model.startswith('deepseek-'):
+        return os.environ.get('DEEPSEEK_API_KEY')
+    else:
+        raise ValueError(f"Unknown model: {model}")
 
 async def main() -> None:
+    # Parse command line arguments
+    args = parse_arguments()
+    
+    print(f"Using generation model: {args.generation_model}")
+    print(f"Using reflection model: {args.reflection_model}")
+    print(f"Using tool calling model: {args.tool_calling_model}")
+    
     async with await Manager.from_exchange_factory(
         factory=LocalExchangeFactory(),
         executors=ThreadPoolExecutor(),
     ) as manager:
         
-        API_KEY = os.environ.get('OPENAI_API_KEY')
-        API_KEY_ANTHROPIC = os.environ.get('ANTHROPIC_API_KEY')
-        API_KEY_DEEPSEEK = os.environ.get('DEEPSEEK_API_KEY')
-
-        #generation_model = 'gpt-4o'
-        #generation_model = 'o3-mini'
-        #generation_model = "claude-sonnet-4-20250514"
-        generation_model = "deepseek-chat"
+        # Get API keys based on selected models
+        generation_api_key = get_api_key_for_model(args.generation_model)
+        reflection_api_key = get_api_key_for_model(args.reflection_model)
+        tool_calling_api_key = get_api_key_for_model(args.tool_calling_model)
+        
+        # Validate API keys are available
+        if not generation_api_key:
+            raise ValueError(f"API key not found for generation model: {args.generation_model}")
+        if not reflection_api_key:
+            raise ValueError(f"API key not found for reflection model: {args.reflection_model}")
+        if not tool_calling_api_key:
+            raise ValueError(f"API key not found for tool calling model: {args.tool_calling_model}")
 
         # Create new log directory
         run_num = len(os.listdir(LOG_DIR))
@@ -75,7 +122,11 @@ async def main() -> None:
         
         create_results_csv(os.path.join(LOG_DIR, f'run_{run_num}', "results_summary.csv"))
 
-        reflection_agent_handle = await manager.launch(ReflectionAgent, args=(API_KEY,), kwargs={"model":"gpt-4o", "prompts_dir":PROMPTS_DIR})
+        reflection_agent_handle = await manager.launch(
+            ReflectionAgent, 
+            args=(reflection_api_key,), 
+            kwargs={"model": args.reflection_model, "prompts_dir": PROMPTS_DIR}
+        )
 
         mof_transformer_agent_handle = await manager.launch(MOFTransformerAgent)
 
@@ -89,22 +140,28 @@ async def main() -> None:
 
         mof_assemble_agent_handle = await manager.launch(MOFAssembleAgent)
 
-        generate_linkers_agent_handle = await manager.launch(GenerateLinkersAgent, args=(API_KEY_DEEPSEEK,), kwargs={"model": generation_model, "prompts_dir":PROMPTS_DIR})
+        generate_linkers_agent_handle = await manager.launch(
+            GenerateLinkersAgent, 
+            args=(generation_api_key,), 
+            kwargs={"model": args.generation_model, "prompts_dir": PROMPTS_DIR}
+        )
 
         lammps_agent_handle = await manager.launch(LammpsAgent, args=(generate_linkers_agent_handle,))
         
-        tool_calling_agent_handle = await manager.launch(ToolCallerAgent, 
-                                                         args = (API_KEY, reflection_agent_handle, 
-                                                                 mof_transformer_agent_handle, 
-                                                                random_normal_agent_handle, 
-                                                                random_uniform_agent_handle, 
-                                                                noisy_mof_transformer_agent_handle, 
-                                                                mof_db_agent_handle, 
-                                                                mof_assemble_agent_handle,
-                                                                lammps_agent_handle,
-                                                                generate_linkers_agent_handle
-                                                                ), 
-                                                        kwargs={"model":"gpt-4o", "prompts_dir":PROMPTS_DIR})
+        tool_calling_agent_handle = await manager.launch(
+            ToolCallerAgent, 
+            args=(tool_calling_api_key, reflection_agent_handle, 
+                  mof_transformer_agent_handle, 
+                  random_normal_agent_handle, 
+                  random_uniform_agent_handle, 
+                  noisy_mof_transformer_agent_handle, 
+                  mof_db_agent_handle, 
+                  mof_assemble_agent_handle,
+                  lammps_agent_handle,
+                  generate_linkers_agent_handle
+                  ), 
+            kwargs={"model": args.tool_calling_model, "prompts_dir": PROMPTS_DIR}
+        )
 
         await tool_calling_agent_handle.add_tools()
         
