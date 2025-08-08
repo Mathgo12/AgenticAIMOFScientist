@@ -74,6 +74,12 @@ def parse_arguments():
         default='gpt-4o',
         help='LLM model to use for tool calling agent (default: gpt-4o)'
     )
+
+    parser.add_argument(
+        '--auto',
+        action='store_true',
+        help='Start AI Scientist in autonomous mode to answer user requests sequentially.'
+    )
     
     return parser.parse_args()
 
@@ -117,6 +123,8 @@ async def main() -> None:
         # Create new log directory
         run_num = len(os.listdir(LOG_DIR))
         os.makedirs(os.path.join(LOG_DIR, f'run_{run_num}'), exist_ok=True)
+
+        run_dir = os.path.join(LOG_DIR, f'run_{run_num}')
         
         create_results_csv(os.path.join(LOG_DIR, f'run_{run_num}', "results_summary.csv"))
 
@@ -162,14 +170,36 @@ async def main() -> None:
         )
 
         await tool_calling_agent_handle.add_tools()
-        
-        while True:
-            prompt = input("\nYou: ")
-            if prompt == 'EXIT':
-                break
-            print(f'USER PROMPT: {prompt}')
-            _, response = await tool_calling_agent_handle.query_scientist(prompt)
-            print(response)
+
+        if args.auto:
+            prompts_path = os.path.join(BASE_DIR, 'user_input')
+            prompts = []
+            responses = []
+            paths = [t for t in os.listdir(prompts_path) if t.endswith('.txt')]
+            for path in paths: 
+                with open(os.path.join(prompts_path, path), 'r') as f:
+                    prompt = f.read()
+
+                print(f'USER PROMPT: {prompt}')
+                _, response = await tool_calling_agent_handle.query_scientist(prompt)
+                prompts.append(prompt)
+                responses.append(response)
+
+            with open(os.path.join(run_dir, 'responses.txt'), 'w') as f:
+                for i in range(len(prompts)):
+                    f.write(f'USER PROMPT: {prompts[i]} \n')
+                    f.write(f'RESPONSE: {responses[i]} \n')
+
+                f.write('='*50)
+                
+        else: 
+            while True:
+                prompt = input("\nYou: ")
+                if prompt == 'EXIT':
+                    break
+                print(f'USER PROMPT: {prompt}')
+                _, response = await tool_calling_agent_handle.query_scientist(prompt)
+                print(response)
 
         await asyncio.sleep(2)
         
